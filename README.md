@@ -27,3 +27,14 @@ To run the website locally, follow these steps:
 4. Install the dependencies by running the following command: `npm install`
 5. Start the server by running the following command: `node app.js`
 6. Open a web browser and navigate to `http://localhost:3000` to view the website.
+
+## Sample Images
+Here are some screenshots of the website:
+
+Home Page
+
+Compose Page
+
+Blog Database
+
+You can also access these images in the sample-images directory in the root of the project. This directory contains a collection of images that can be used to test the website's functionality.
