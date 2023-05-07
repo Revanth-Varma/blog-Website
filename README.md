@@ -24,5 +24,6 @@ To run the website locally, follow these steps:
 1. Clone the repository to your local machine.
 2. Install Node.js and MongoDB if you haven't already.
 3. Open a terminal and navigate to the directory where the repository is cloned.
-4. Install the dependencies by running the following command:
-
+4. Install the dependencies by running the following command: `npm install`
+5. Start the server by running the following command:
+6. Open a web browser and navigate to `http://localhost:3000` to view the website.
