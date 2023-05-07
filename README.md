@@ -31,7 +31,7 @@ To run the website locally, follow these steps:
 ## Sample Images
 Here are some screenshots of the website:
 
-- **Home Page :** This screenshot shows the homepage of the Daily Journal website, where users can view all of the journal entries that have been posted. <br><img src="https://github.com/Revanth-Varma/blog-Website/blob/76e10ab3ff3a77a75cd468094c2d76cf09ef58bf/Sample%20Images/Home%20Page.png" alt="home" width="80%" align="center">
+- **Home Page :** This screenshot shows the homepage of the Daily Journal website, where users can view all of the journal entries that have been posted. <br><p align="center"><img src="https://github.com/Revanth-Varma/blog-Website/blob/76e10ab3ff3a77a75cd468094c2d76cf09ef58bf/Sample%20Images/Home%20Page.png" alt="home" width="80%"></p>
 - **Compose Page :** This screenshot shows the compose page of the Daily Journal website, where users can write new journal entries by entering a title and content.<img src="https://github.com/Revanth-Varma/blog-Website/blob/76e10ab3ff3a77a75cd468094c2d76cf09ef58bf/Sample%20Images/Compose%20Page.png" alt="compose" width="80%">
 - **Blog Database :** This screenshot shows the blog database of the Daily Journal website in mongoDb Compass, where all journal entries are stored and can be accessed or edited as needed. <img src="https://github.com/Revanth-Varma/blog-Website/blob/76e10ab3ff3a77a75cd468094c2d76cf09ef58bf/Sample%20Images/blogDatabase.png" alt="database" width="80%">
 You can also access these images in the sample-images directory in the root of the project. This directory contains a collection of images that can be used to test the website's functionality.
