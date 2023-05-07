@@ -31,10 +31,7 @@ To run the website locally, follow these steps:
 ## Sample Images
 Here are some screenshots of the website:
 
-- **Home Page :**
-<img src="https://github.com/Revanth-Varma/blog-Website/blob/76e10ab3ff3a77a75cd468094c2d76cf09ef58bf/Sample%20Images/Home%20Page.png" alt="home">
-- **Compose Page :**
-<img src="https://github.com/Revanth-Varma/blog-Website/blob/76e10ab3ff3a77a75cd468094c2d76cf09ef58bf/Sample%20Images/Compose%20Page.png" alt="compose">
-- **Blog Database :**
-<img src="https://github.com/Revanth-Varma/blog-Website/blob/76e10ab3ff3a77a75cd468094c2d76cf09ef58bf/Sample%20Images/blogDatabase.png" alt="database">
+- **Home Page :** <img src="https://github.com/Revanth-Varma/blog-Website/blob/76e10ab3ff3a77a75cd468094c2d76cf09ef58bf/Sample%20Images/Home%20Page.png" alt="home">
+- **Compose Page :** <img src="https://github.com/Revanth-Varma/blog-Website/blob/76e10ab3ff3a77a75cd468094c2d76cf09ef58bf/Sample%20Images/Compose%20Page.png" alt="compose">
+- **Blog Database :** <img src="https://github.com/Revanth-Varma/blog-Website/blob/76e10ab3ff3a77a75cd468094c2d76cf09ef58bf/Sample%20Images/blogDatabase.png" alt="database">
 You can also access these images in the sample-images directory in the root of the project. This directory contains a collection of images that can be used to test the website's functionality.
