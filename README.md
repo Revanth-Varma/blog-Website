@@ -13,9 +13,9 @@ The website has the following features:
 
 - **Compose page:** The compose page allows users to create new journal entries. Users can enter the title and content of the entry and submit it. The entry will be saved in the database and will be displayed on the home page.
 
-- **About us page:** The about us page provides information about the website and its creators.
+- **About us page:** The about us page provides information about the website and its creators. (not fully functionable)
 
-- **Contact us page:** The contact us page allows users to send a message to the website's creators.
+- **Contact us page:** The contact us page allows users to send a message to the website's creators. (not fully functionable)
 
 ## Installation
 
